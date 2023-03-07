@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "namnDn",
+      "phone": "0909",
+      "email": "namdn@gmail.com",
+      "age": "44",
+      "gender": "Nam"
+    },
+    {
+      "fullname": "dao van loi",
+      "phone": "0981497901",
+      "email": "daoloi0000@gmail.com",
+      "age": "18",
+      "gender": "true",
+      "id": 2
+    },
+    {
+      "fullname": "dao van loi",
+      "phone": "0981497901",
+      "email": "daovanloi2003@gmail.com",
+      "age": "20",
+      "gender": "true",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
